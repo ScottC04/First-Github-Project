@@ -7,9 +7,9 @@
     height:600px;
     border:2px solid red;
     display: flex;
+    align-items: column;
+    justify-content: center;
     flex-direction: column;
-    justify-content: space-between;
-    align-items: center;
     }
 
     .box {
